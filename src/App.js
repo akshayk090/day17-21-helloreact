@@ -1,5 +1,5 @@
 
 const helloworld = () => {
-  return "i am arrow functon";
+  return <h1>hello</h1>;
 };
 export default helloworld;
